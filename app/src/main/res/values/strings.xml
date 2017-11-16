@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hallo Tablet</string>
+
+    <!-- Willkommens Meldung -->
+    <string name="willkommen">Guten Tag, schön das Sie die App gestartet haben. Bitte veraten Sie mir Ihren Namen:</string>
+
+    <!-- Persönliche Begrüßung -->
+    <string name="hallo">Hallo %1$s. Ich freue mich Sie kennen zu lernen.</string>
+
+    <!-- Beschriftung für die Schaltflächen -->
+    <string name="weiter">Weiter</string>
+    <string name="fertig">Fertig</string>
+    <string name="vorname_nachname">Vorname Nachname</string>
+
+</resources>
